@@ -1,0 +1,21 @@
+.box {
+  width: 500px;
+  height: 200px;
+  background-color: #ddd;
+  margin: 0 auto;
+}
+.box .box-title {
+  font-size: 22px;
+  color: blue;
+  text-align: center;
+}
+.box .box-con {
+  font-size: 18px;
+  color: #333333;
+  text-align: center;
+}
+.box .footer {
+  height: 80px;
+  background-color: #45ad53;
+  text-align: center;
+} 

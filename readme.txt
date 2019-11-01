@@ -1,2 +1,2 @@
 ninonbrlnblsoji  周五啦啦啦啦
-周五
+周五 周六
